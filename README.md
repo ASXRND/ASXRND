@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexandr-hohon-831a6a272/" target="_blank">Alexandr</a> &nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/book-loading.gif"/></h1>
 
- 
-
-&nbsp;&nbsp;&nbsp;[![Header](https://github.com/ASXRND/ASXRND/blob/test/header.jpg)](https://t.me/ASXXA)
+&nbsp;&nbsp;&nbsp;[![Header](https://github.com/ASXRND/ASXRND/blob/test/header.png)](https://t.me/ASXXA)
 
 -------------------     ----------------------------
 * E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;4218820@gmail.com
