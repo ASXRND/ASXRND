@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexandr-hohon-831a6a272/" target="_blank">Alexandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
 
 
 &nbsp;&nbsp;&nbsp;[![Header](https://github.com/ASXRND/ASXRND/blob/test/header.jpg)](https://t.me/ASXXA)
