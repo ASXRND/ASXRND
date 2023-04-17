@@ -1,27 +1,16 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexandr-hohon-831a6a272/" target="_blank">Alexandr</a> 
-<!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexandr-hohon-831a6a272/" target="_blank">Alexandr</a> &nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/book-loading.gif"/></h1>
 
+ 
 
 &nbsp;&nbsp;&nbsp;[![Header](https://github.com/ASXRND/ASXRND/blob/test/header.jpg)](https://t.me/ASXXA)
 
-Skills: Swift, UIKit, Realm, CoreData, SOLID, OOP, MVC, MVVM, JSON, FIREBASE
+-------------------     ----------------------------
+* E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;4218820@gmail.com
+* Telegram: &nbsp;[@ASXXA](https://t.me/ASXXA) &nbsp; preferred type of communication.
+* City:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ростов-На-Дону](https://yandex.ru/images/search?from=tabbar&text=%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BD%D1%83&pos=4&img_url=http%3A%2F%2F1.bp.blogspot.com%2F-7KtsD-PNLFg%2FVlLWrZ2oPwI%2FAAAAAAAA4Q8%2FZzAn_uR-zew%2Fs1600%2F4.jpg&rpt=simage&lr=39)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Header](https://github.com/RNDASX/portfolio/blob/main/jpg/karta.jpg)](https://yandex.ru/maps/geo/rostov_na_donu/53166035/?from=tabbar&ll=39.790424%2C47.232587&source=serp_navig&z=11) &nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/cursor-click.gif" height="32"/></h1>
+
+Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor, Figma, Cocoapods, Postman, SnapKit, Figma, Scetch
+-------------------     ----------------------------
 
 
-
-
-
-
-<!--
-**ASXRND/ASXRND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
