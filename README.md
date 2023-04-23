@@ -40,7 +40,7 @@ Liked the project? Just give it a star ⭐️ and spread the word!
 ## Animations
 
 <img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="200" height="400"> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
 ## Languages / Frameworks Used
 - Swift 5
