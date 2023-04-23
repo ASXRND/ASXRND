@@ -9,6 +9,33 @@
 
 Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor, Figma, Cocoapods, Postman, SnapKit, Figma, Scetch
 -------------------     ----------------------------
+## Animations
+
+
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="200" height="400">
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/2.gif" width="200" height="400">
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/3.gif" width="200" height="400"> 
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/4.gif" width="200" height="400">
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/5.gif" width="200" height="400">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+## Languages / Frameworks Used
+- Swift 5
+- UIKit
+- UITableView
+- UICollectionView
+- ValidEmail
+- UITapGestureRecognizer
+- Animate
+- CAGradientLayer
+- CABasicAnimation
+- Headers
+
+## Spread the word!
+Liked the project? Just give it a star ⭐️ and spread the word!
+
+## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
 
   
