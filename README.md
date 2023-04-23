@@ -37,5 +37,20 @@ Liked the project? Just give it a star ⭐️ and spread the word!
 
 ## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
+## Animations
+
+<img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="200" height="400"> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ 
+## Languages / Frameworks Used
+- Swift 5
+- UIKit
+- CoreGraphics
+- CoreAnimation
+
+## Spread the word!
+Liked the project? Just give it a star ⭐️ and spread the word!
+## Repository &nbsp;[here](https://github.com/ASXRND/Animations)
+
 
   
