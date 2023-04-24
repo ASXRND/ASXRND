@@ -51,6 +51,9 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 ## Languages / Frameworks Used
 - Swift 5
 - UIKit
+- UICollectionView
+- UICollectionViewFlowLayout
+- UserDefaults
 
 ## Habits in 21 days Project &nbsp;&nbsp;[here](https://github.com/ASXRND/MyHabits)
 
