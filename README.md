@@ -18,6 +18,7 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/4.gif" width="160" height="320">
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/5.gif" width="160" height="320">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+-------------------     ----------------------------
 
 
 ## Languages / Frameworks Used
