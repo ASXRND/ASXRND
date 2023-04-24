@@ -9,6 +9,7 @@
 
 Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor, Figma, Cocoapods, Postman, SnapKit, Figma, Scetch
 -------------------     ----------------------------
+[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
 ## Graduation project netology.
 
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="160" height="320">
@@ -33,6 +34,23 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 
 ## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
+[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+## Course project netology (Habits in 21 days.)
+
+
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/1.gif" width="160" height="320">
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/2.gif" width="160" height="320">
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/3.gif" width="160" height="320"> 
+<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/4.gif" width="160" height="320">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+## Languages / Frameworks Used
+- Swift 5
+- UIKit
+
+[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
 ## Animations.
 
 <img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="160" height="320"> 
