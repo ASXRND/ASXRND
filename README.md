@@ -10,6 +10,7 @@
 Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor, Figma, Cocoapods, Postman, SnapKit, Figma, Scetch
 -------------------     ----------------------------
 [![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+
 ## Graduation project netology.
 
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="160" height="320">
@@ -32,9 +33,10 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 - Headers
 
 
-## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
+## Graduation Project &nbsp;&nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
 [![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+
 ## Course project netology (Habits in 21 days.)
 
 
@@ -50,6 +52,8 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 - Swift 5
 - UIKit
 
+## Habits in 21 days Project &nbsp;&nbsp;[here](https://github.com/ASXRND/MyHabits)
+
 [![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
 ## Animations.
 
@@ -62,7 +66,7 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 - CoreGraphics
 - CoreAnimation
 
-## Repository &nbsp;[here](https://github.com/ASXRND/Animations)
+## Animations Project &nbsp;&nbsp;[here](https://github.com/ASXRND/Animations)
 
 
   
