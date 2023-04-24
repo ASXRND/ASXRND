@@ -9,8 +9,7 @@
 
 Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor, Figma, Cocoapods, Postman, SnapKit, Figma, Scetch
 -------------------     ----------------------------
-## Animations
-
+## Graduation project netology.
 
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="160" height="320">
 <img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/2.gif" width="160" height="320">
@@ -36,7 +35,7 @@ Liked the project? Just give it a star ⭐️ and spread the word!
 
 ## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
-## Animations
+## Animations.
 
 <img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="160" height="320"> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
