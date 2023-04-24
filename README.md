@@ -30,8 +30,6 @@ Swift, UIKit, CoreData, Solid, Oop, MVC, MVP, Json, Firebase, URLSession, Vapor,
 - CABasicAnimation
 - Headers
 
-## Spread the word!
-Liked the project? Just give it a star ⭐️ and spread the word!
 
 ## Repository &nbsp;[here](https://github.com/ASXRND/ios-homeworks)
 
@@ -46,8 +44,6 @@ Liked the project? Just give it a star ⭐️ and spread the word!
 - CoreGraphics
 - CoreAnimation
 
-## Spread the word!
-Liked the project? Just give it a star ⭐️ and spread the word!
 ## Repository &nbsp;[here](https://github.com/ASXRND/Animations)
 
 
