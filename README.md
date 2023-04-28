@@ -1,5 +1,5 @@
-&nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/book-loading_2.gif"/></h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=3081F7&background=342CFF05&vCenter=true&width=1000&lines=Hi+there.+I'm+Alexandr+and+I'm+iOS+developer)](https://git.io/typing-svg)
+&nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/book-loading_2.gif"/></h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=3081F7&background=342CFF05&vCenter=true&width=1000&lines=Hi+there.+I'm+Alexandr+and+I'm+iOS+developer)](https://git.io/typing-svg)
+
 
 
 -------------------     ----------------------------
