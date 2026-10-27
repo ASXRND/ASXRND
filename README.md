@@ -1,101 +1,64 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="centr" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/devolutions-dev.gif" width="120" height=«120/></h1> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=3081F7&background=342CFF05&vCenter=true&width=1000&lines=Hi)](https://git.io/typing-svg)
+# ASX
 
+**macOS / iOS developer.** Пишу локальные инструменты для разработчика: нативные приложения на Swift,
+утилиты на TypeScript/Python, интеграции с LLM и агентами.
 
+Последние два года — про то, чтобы инструменты работали быстро и без облака:
+один процесс, ноль подписок, данные лежат рядом с проектом.
 
--------------------     ----------------------------
-* E-mail:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;#
-* Telegram: &nbsp;[#](#) &nbsp;
-* City:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#](from=tabbar&text=%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D0%B4%D0%BE%D0%BD%D1%83&pos=4&img.jpg&rpt=simage&lr=39)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Header](https://github.com/RNDASX/portfolio/blob/main/jpg/karta.jpg)](#) &nbsp;&nbsp; <img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/cursor-click.gif" height="32"/></h1>&nbsp;&nbsp;&nbsp;[![Linkedin](https://github.com/ASXRND/ASXRND/blob/test/GifProject/linkedIn.png)](#)
+---
 
--------------------     ----------------------------
-* UIKit (NSLayoutConstraint, Interface builder, XIB, SnapKit)
-* SwiftUI (Based)
-* MVC, MVP
-* Cocoapods
-* CoreData, UserDefaults
-* Firebase
-* JSON, GCD, URLSession
-* GitHub
--------------------     ----------------------------
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+## Что делаю сейчас
 
-## Firebase Chat.
+| Проект | Что это |
+|---|---|
+| **[canvas_asx](https://github.com/ASXRND/canvas_asx)** | Лёгкий канвас для macOS: бесконечная доска, живые терминалы (SwiftTerm + PTY), `.md`-заметки, файловая плитка с SSH/SFTP. Нативный SwiftUI, без Electron и WebView. |
+| **[filecommander](https://github.com/ASXRND/filecommander)** | Двухпанельный файловый менеджер на SwiftUI: вкладки, сплиты, дерево, свойства, серверы через системный `ssh`/`scp`. Ноль зависимостей, 1.7 МБ. |
 
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/FirebaseChatGif/1.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/FirebaseChatGif/2.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/FirebaseChatGif/3.gif" width="160" height="320"> 
+## Стек
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+**Нативно (macOS / iOS)**
+Swift, SwiftUI, AppKit, SwiftPM · терминалы и PTY, ScreenCaptureKit-подходы, работа с окнами
+и меню, NSDocument/файловые API · ранее — UIKit, CoreAnimation, Firebase (iOS-проекты в архиве ниже)
 
-## Languages / Frameworks Used
-- Swift 5
-- UIKit
-- ValidEmail
-- Json
-- Firebase
-- Cocoapod
+**Сервер и данные**
+TypeScript, Node.js, Python · Django, REST-интеграции (маркетплейсы, аналитика, отчётность),
+SQL, обработка данных и сигналов
 
-## Firebase Chat Project &nbsp;&nbsp;[here](https://github.com/ASXRND/FirebaseChat)
+**Инструменты вокруг LLM**
+MCP-серверы, локальный инференс (llama.cpp), агентные пайплайны, консольные ассистенты
 
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+**Инфраструктура**
+macOS, Linux, git, Docker, ssh · сборка и упаковка нативных приложений, подпись, диагностика
 
-## Graduation project netology.
+## Избранное
 
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/2.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/3.gif" width="160" height="320"> 
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/4.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/5.gif" width="160" height="320">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+| Репозиторий | Стек | О чём |
+|---|---|---|
+| [MCP_deepseek](https://github.com/ASXRND/MCP_deepseek) | Python | MCP-сервер: доступ агентов к модели через локальный протокол |
+| [console_deepseek_chat](https://github.com/ASXRND/console_deepseek_chat) | Python | Консольный чат с LLM без веб-интерфейса |
+| [crypto-Signal](https://github.com/ASXRND/crypto-Signal) | Python | Расчёт торговых сигналов и оповещения |
+| [oz_api](https://github.com/ASXRND/oz_api) · [reviews_wb](https://github.com/ASXRND/reviews_wb) | Python | Интеграции с API маркетплейсов: товары, отзывы, отчёты |
+| [new_ecom_project_next](https://github.com/ASXRND/new_ecom_project_next) | TypeScript / Next.js | Магазин: каталог, корзина, заказы, админка |
 
-## Languages / Frameworks Used
-- Swift 5
-- UIKit
-- UITableView
-- UICollectionView
-- ValidEmail
-- UITapGestureRecognizer
-- Animate
-- CAGradientLayer
-- CABasicAnimation
-- Headers
+<details>
+<summary><b>Архив: iOS-проекты (2023, обучение)</b></summary>
 
-## Graduation Project &nbsp;&nbsp;[here](https://github.com/ASXRND/ios-homeworks)
+| Проект | Что внутри |
+|---|---|
+| [FirebaseChat](https://github.com/ASXRND/FirebaseChat) | Чат на Firebase: авторизация, сообщения в реальном времени |
+| [MyHabits](https://github.com/ASXRND/MyHabits) | Трекер привычек: UIKit, UICollectionView, UserDefaults |
+| [Animations](https://github.com/ASXRND/Animations) | CoreGraphics / CoreAnimation: анимации интерфейса |
+| [Weather-App](https://github.com/ASXRND/Weather-App) | Сеть, JSON, отображение прогноза |
+| [ios-homeworks](https://github.com/ASXRND/ios-homeworks) | Домашние работы курса iOS |
 
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
+<img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/FirebaseChatGif/1.gif" width="150">
+<img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/1.gif" width="150">
+<img src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/NavigationGif/1.gif" width="150">
 
-## Course project netology (Habits in 21 days.)
+</details>
 
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/1.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/2.gif" width="160" height="320">
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/3.gif" width="160" height="320"> 
-<img align="left" src="https://github.com/ASXRND/ASXRND/blob/test/GifProject/MyHabitsGif/4.gif" width="160" height="320">
+---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## Languages / Frameworks Used
-- Swift 5
-- UIKit
-- UICollectionView
-- UICollectionViewFlowLayout
-- UserDefaults
-
-## Habits in 21 days Project &nbsp;&nbsp;[here](https://github.com/ASXRND/MyHabits)
-
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://www.android.com)
-## Animations.
-
-<img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="160" height="320"> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
- 
-## Languages / Frameworks Used
-- Swift 5
-- UIKit
-- CoreGraphics
-- CoreAnimation
-
-## Animations Project &nbsp;&nbsp;[here](https://github.com/ASXRND/Animations)
-
-
-  
+Открыт к задачам, где нужен нативный macOS-клиент, терминальные/агентные инструменты
+или интеграции с внешними API. Связаться — через issues в нужном репозитории.
