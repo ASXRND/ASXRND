@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="ASX — macOS developer">
+  <title>ASX — macOS / iOS developer</title>
+
+  <!-- Акцентная линия под именем: медленно проезжает слева направо и обратно -->
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4C8DFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4C8DFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#4C8DFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <!-- Имя -->
+    <text x="0" y="64" font-size="52" font-weight="700" letter-spacing="1"
+          fill="#8A8A8E">ASX</text>
+
+    <!-- Мигающий курсор рядом с именем -->
+    <rect x="112" y="24" width="10" height="42" fill="#4C8DFF">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1"
+               dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Роль -->
+    <text x="0" y="98" font-size="16" fill="#8A8A8E" letter-spacing="0.4">macOS · Swift · TypeScript</text>
+
+    <!-- Три пульсирующие точки: «процесс идёт» -->
+    <g fill="#4C8DFF">
+      <circle cx="290" cy="93" r="3">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="302" cy="93" r="3">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.25s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="314" cy="93" r="3">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Строка-подпись -->
+    <text x="0" y="132" font-size="14" fill="#6E6E73">
+      native tools · terminals · local-first
+    </text>
+
+    <!-- Бегущая акцентная линия -->
+    <rect x="0" y="146" width="180" height="2" fill="url(#accent)">
+      <animate attributeName="x" values="-180;900" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="146" width="900" height="2" fill="#4C8DFF" opacity="0.08"/>
+  </g>
+</svg>
